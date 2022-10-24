@@ -1,0 +1,70 @@
+{
+  "uid" : "609dc3bdfa06a0fa",
+  "name" : "t02_deveEditarDocumentos",
+  "fullName" : "br.trinca.mattos.tests.metoDoc.DocumentosTeste.t02_deveEditarDocumentos",
+  "historyId" : "fcce3f9ed4c3496a84c175835fd72dfb",
+  "time" : {
+    "start" : 1628014362441,
+    "stop" : 1628014390456,
+    "duration" : 28015
+  },
+  "description" : "t02_deveEditarDocumentos",
+  "descriptionHtml" : "<p>t02_deveEditarDocumentos</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "### FEATURE MATTOS"
+  }, {
+    "name" : "epic",
+    "value" : "###EPIC DEVE ADD DOCUMENTOS COM SUCESSO##"
+  }, {
+    "name" : "story",
+    "value" : "t02_deveEditarDocumentos"
+  }, {
+    "name" : "host",
+    "value" : "TRINCA-NOTE-22"
+  }, {
+    "name" : "thread",
+    "value" : "21536@TRINCA-NOTE-22.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "br.trinca.mattos.tests.metoDoc.DocumentosTeste"
+  }, {
+    "name" : "testClass",
+    "value" : "br.trinca.mattos.tests.metoDoc.DocumentosTeste"
+  }, {
+    "name" : "testMethod",
+    "value" : "t02_deveEditarDocumentos"
+  }, {
+    "name" : "suite",
+    "value" : "br.trinca.mattos.tests.metoDoc.DocumentosTeste"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "609dc3bdfa06a0fa.json",
+  "parameterValues" : [ ]
+}

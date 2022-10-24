@@ -1,0 +1,70 @@
+{
+  "uid" : "74cc5014976ee662",
+  "name" : "t04_deveVisualizarDocumentosVerificarSeFoiaAbertoNapágina",
+  "fullName" : "br.trinca.mattos.tests.metoDoc.DocumentosTeste.t04_deveVisualizarDocumentosVerificarSeFoiaAbertoNapágina",
+  "historyId" : "9f17867b31b2c0643cbbf37244e05dc0",
+  "time" : {
+    "start" : 1628014411055,
+    "stop" : 1628014435868,
+    "duration" : 24813
+  },
+  "description" : "t04_deveVisualizarDocumentosVerificarSeFoiaAbertoNapágina",
+  "descriptionHtml" : "<p>t04_deveVisualizarDocumentosVerificarSeFoiaAbertoNapágina</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "### FEATURE MATTOS"
+  }, {
+    "name" : "epic",
+    "value" : "###EPIC DEVE ADD DOCUMENTOS COM SUCESSO##"
+  }, {
+    "name" : "story",
+    "value" : "t04_deveVisualizarDocumentosVerificarSeFoiaAbertoNapágina"
+  }, {
+    "name" : "host",
+    "value" : "TRINCA-NOTE-22"
+  }, {
+    "name" : "thread",
+    "value" : "21536@TRINCA-NOTE-22.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "br.trinca.mattos.tests.metoDoc.DocumentosTeste"
+  }, {
+    "name" : "testClass",
+    "value" : "br.trinca.mattos.tests.metoDoc.DocumentosTeste"
+  }, {
+    "name" : "testMethod",
+    "value" : "t04_deveVisualizarDocumentosVerificarSeFoiaAbertoNapágina"
+  }, {
+    "name" : "suite",
+    "value" : "br.trinca.mattos.tests.metoDoc.DocumentosTeste"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74cc5014976ee662.json",
+  "parameterValues" : [ ]
+}

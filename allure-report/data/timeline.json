@@ -1,0 +1,567 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "TRINCA-NOTE-22",
+    "children" : [ {
+      "name" : "21536@TRINCA-NOTE-22.main(1)",
+      "children" : [ {
+        "name" : "t06_deveFazerDownloadDocumentos",
+        "uid" : "b3e257c329d52d38",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014467333,
+          "stop" : 1628014492116,
+          "duration" : 24783
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t01_deveAdicionarDocumentos",
+        "uid" : "2aca4cda20cd526b",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014332070,
+          "stop" : 1628014362441,
+          "duration" : 30371
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t13_deveExcluirDocPorDentroDoProcessos",
+        "uid" : "728452151b61488b",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014295961,
+          "stop" : 1628014316421,
+          "duration" : 20460
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t14_deveExcluirProcessos",
+        "uid" : "586b6e4961dcf107",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014316421,
+          "stop" : 1628014332070,
+          "duration" : 15649
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "T_6deveValidarOsCamposDoProcessos",
+        "uid" : "520ab7c9fd8f76bc",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014603157,
+          "stop" : 1628014603621,
+          "duration" : 464
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "T_2DeveValidarCampoNameObrigatorio",
+        "uid" : "f85fab36c2ecc0a5",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014545419,
+          "stop" : 1628014547021,
+          "duration" : 1602
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t09_deveInserirDocumentoPorDentroDoProcesso",
+        "uid" : "f7cb63351c155532",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014171627,
+          "stop" : 1628014189979,
+          "duration" : 18352
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t05_deveBuscarProcessos",
+        "uid" : "69aacf3b5c62e01a",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014082605,
+          "stop" : 1628014100340,
+          "duration" : 17735
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "deveCriarEmpresa",
+        "uid" : "4b1b2750e6eb2d07",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014518171,
+          "stop" : 1628014541517,
+          "duration" : 23346
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t04_deveVisualizarDocumentosVerificarSeFoiaAbertoNapágina",
+        "uid" : "74cc5014976ee662",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014411055,
+          "stop" : 1628014435868,
+          "duration" : 24813
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t07_deveExcluirDocumentos",
+        "uid" : "f402199a2cd48f3f",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014492116,
+          "stop" : 1628014518171,
+          "duration" : 26055
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t12_verificarHistorico",
+        "uid" : "3196d05e6171eb3d",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628014219535,
+          "stop" : 1628014295961,
+          "duration" : 76426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t11_deveEditarDocumentoPorDentroProcesso",
+        "uid" : "e2b206fa90a82a68",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628014189979,
+          "stop" : 1628014219519,
+          "duration" : 29540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t08_deveAdicionarMembrosNoProcesso",
+        "uid" : "63ce70c83cd74b29",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014150859,
+          "stop" : 1628014171627,
+          "duration" : 20768
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "T_7devoRemoverUsuario",
+        "uid" : "7360f529fbf153ad",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014603631,
+          "stop" : 1628014603963,
+          "duration" : 332
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t04_deveEditarPorDentroProcesso",
+        "uid" : "cc59fd47cafeb070",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014059341,
+          "stop" : 1628014082599,
+          "duration" : 23258
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t06_deveFazerDownloandDoProcessos",
+        "uid" : "a449f546f505298f",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014100340,
+          "stop" : 1628014118163,
+          "duration" : 17823
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "T_3DeveValidarCampoCustomerIdObrigatorio",
+        "uid" : "9bc80de40821208f",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628014547036,
+          "stop" : 1628014599277,
+          "duration" : 52241
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "T_1deveIncuirProcessiComSucesso",
+        "uid" : "8a2ce66f23aa0995",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014545047,
+          "stop" : 1628014545411,
+          "duration" : 364
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t05_deveInserirArmazenamentoFisico",
+        "uid" : "b236ddb860caa97c",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014435868,
+          "stop" : 1628014467333,
+          "duration" : 31465
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t07_deveAdicionarLocalDeArmazenamento",
+        "uid" : "c017a6484690ffdf",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014118163,
+          "stop" : 1628014150854,
+          "duration" : 32691
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "T_4DeveValidarCampoStatusObrigatorio",
+        "uid" : "df62d8715c1b86aa",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014599279,
+          "stop" : 1628014602874,
+          "duration" : 3595
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t02_deveAdicionarProcessoNovo",
+        "uid" : "5a7086b82ff74675",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014005783,
+          "stop" : 1628014031880,
+          "duration" : 26097
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "T_5DeveValidarCampoUserObrigatorio",
+        "uid" : "3bdbf8c2272de89a",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014602885,
+          "stop" : 1628014603157,
+          "duration" : 272
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t03_deveBuscarDocumentos",
+        "uid" : "83541072fc08bc56",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014390456,
+          "stop" : 1628014411055,
+          "duration" : 20599
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t02_deveEditarDocumentos",
+        "uid" : "609dc3bdfa06a0fa",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014362441,
+          "stop" : 1628014390456,
+          "duration" : 28015
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t01_deveRealizarLogin",
+        "uid" : "257628789cc12dd",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628013990745,
+          "stop" : 1628014005721,
+          "duration" : 14976
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t03_deveEditarProcesso",
+        "uid" : "132431738dbd1567",
+        "parentUid" : "200bc546bfb27f149da00695e3eeeda3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628014031880,
+          "stop" : 1628014059333,
+          "duration" : 27453
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "200bc546bfb27f149da00695e3eeeda3"
+    }, {
+      "name" : "22532@TRINCA-NOTE-22.main(1)",
+      "children" : [ {
+        "name" : "t13_deveExcluirDocPorDentroDoProcessos",
+        "uid" : "4512485004304401",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628015660243,
+          "stop" : 1628015681197,
+          "duration" : 20954
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t11_deveEditarDocumentoPorDentroProcesso",
+        "uid" : "995d573c61165562",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628015553614,
+          "stop" : 1628015583338,
+          "duration" : 29724
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t08_deveAdicionarMembrosNoProcesso",
+        "uid" : "1bf1bf885ec7f04c",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628015513626,
+          "stop" : 1628015534633,
+          "duration" : 21007
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t14_deveExcluirProcessos",
+        "uid" : "f8345279286a2a36",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628015681205,
+          "stop" : 1628015698362,
+          "duration" : 17157
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t03_deveEditarProcesso",
+        "uid" : "d0a214a522119e5d",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628015396236,
+          "stop" : 1628015423153,
+          "duration" : 26917
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t07_deveAdicionarLocalDeArmazenamento",
+        "uid" : "dfa7415e47d5b389",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628015479945,
+          "stop" : 1628015513619,
+          "duration" : 33674
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t12_verificarHistorico",
+        "uid" : "7490605b2e4a0bb8",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628015583348,
+          "stop" : 1628015660238,
+          "duration" : 76890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t01_deveRealizarLogin",
+        "uid" : "2c8efb89b77f2f4a",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628015355147,
+          "stop" : 1628015370944,
+          "duration" : 15797
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t09_deveInserirDocumentoPorDentroDoProcesso",
+        "uid" : "b07c983c4a7eebaf",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628015534633,
+          "stop" : 1628015553614,
+          "duration" : 18981
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t02_deveAdicionarProcessoNovo",
+        "uid" : "eeece6ce787b67c3",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628015371044,
+          "stop" : 1628015396234,
+          "duration" : 25190
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t05_deveBuscarProcessos",
+        "uid" : "74dd3b6aa39794d1",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628015446889,
+          "stop" : 1628015462448,
+          "duration" : 15559
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t04_deveEditarPorDentroProcesso",
+        "uid" : "f74aa3c8c54df789",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628015423155,
+          "stop" : 1628015446887,
+          "duration" : 23732
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t06_deveFazerDownloandDoProcessos",
+        "uid" : "fa6c190fe5d04091",
+        "parentUid" : "edb41d8392aa5411ab7131a90ee541fa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628015462448,
+          "stop" : 1628015479943,
+          "duration" : 17495
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "edb41d8392aa5411ab7131a90ee541fa"
+    }, {
+      "name" : "16024@TRINCA-NOTE-22.main(1)",
+      "children" : [ {
+        "name" : "deveCriarEmpresa",
+        "uid" : "8c1c397e570447be",
+        "parentUid" : "1e4aa9f05d88a785e14b95b241d0009a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628013771084,
+          "stop" : 1628013797788,
+          "duration" : 26704
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1e4aa9f05d88a785e14b95b241d0009a"
+    } ],
+    "uid" : "69ecf8f9d3406b29a1521900a7311eae"
+  } ]
+}

@@ -1,0 +1,70 @@
+{
+  "uid" : "63ce70c83cd74b29",
+  "name" : "t08_deveAdicionarMembrosNoProcesso",
+  "fullName" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste.t08_deveAdicionarMembrosNoProcesso",
+  "historyId" : "15533a58b5e06bceee3a7e70f855193b",
+  "time" : {
+    "start" : 1628014150859,
+    "stop" : 1628014171627,
+    "duration" : 20768
+  },
+  "description" : "t08_deveAdicionarMembrosNoProcesso",
+  "descriptionHtml" : "<p>t08_deveAdicionarMembrosNoProcesso</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "### FEATURE PROCESSO MATTOS"
+  }, {
+    "name" : "epic",
+    "value" : "###EPIC DEVE ADD PROCESSOS COM SUCESSO##"
+  }, {
+    "name" : "story",
+    "value" : "t08_deveAdicionarMembrosNoProcesso"
+  }, {
+    "name" : "host",
+    "value" : "TRINCA-NOTE-22"
+  }, {
+    "name" : "thread",
+    "value" : "21536@TRINCA-NOTE-22.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste"
+  }, {
+    "name" : "testClass",
+    "value" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste"
+  }, {
+    "name" : "testMethod",
+    "value" : "t08_deveAdicionarMembrosNoProcesso"
+  }, {
+    "name" : "suite",
+    "value" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "63ce70c83cd74b29.json",
+  "parameterValues" : [ ]
+}

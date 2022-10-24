@@ -1,0 +1,64 @@
+{
+  "uid" : "8c1c397e570447be",
+  "name" : "deveCriarEmpresa",
+  "fullName" : "br.trinca.mattos.tests.metoDoc.EmpresaTeste.deveCriarEmpresa",
+  "historyId" : "a36f3238a196d45c07f0313e1d73789b",
+  "time" : {
+    "start" : 1628013771084,
+    "stop" : 1628013797788,
+    "duration" : 26704
+  },
+  "description" : "deveCriarEmpresa",
+  "descriptionHtml" : "<p>deveCriarEmpresa</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "deveCriarEmpresa"
+  }, {
+    "name" : "host",
+    "value" : "TRINCA-NOTE-22"
+  }, {
+    "name" : "thread",
+    "value" : "16024@TRINCA-NOTE-22.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "br.trinca.mattos.tests.metoDoc.EmpresaTeste"
+  }, {
+    "name" : "testClass",
+    "value" : "br.trinca.mattos.tests.metoDoc.EmpresaTeste"
+  }, {
+    "name" : "testMethod",
+    "value" : "deveCriarEmpresa"
+  }, {
+    "name" : "suite",
+    "value" : "br.trinca.mattos.tests.metoDoc.EmpresaTeste"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c1c397e570447be.json",
+  "parameterValues" : [ ]
+}

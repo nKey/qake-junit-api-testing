@@ -1,0 +1,90 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "expected:<31/[8]/2021> but was:<31/[7]/2021>",
+      "children" : [ {
+        "name" : "t11_deveEditarDocumentoPorDentroProcesso",
+        "uid" : "e2b206fa90a82a68",
+        "parentUid" : "2cc44d5dd52f583c80d0a10102d2f75a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628014189979,
+          "stop" : 1628014219519,
+          "duration" : 29540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t11_deveEditarDocumentoPorDentroProcesso",
+        "uid" : "995d573c61165562",
+        "parentUid" : "2cc44d5dd52f583c80d0a10102d2f75a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628015553614,
+          "stop" : 1628015583338,
+          "duration" : 29724
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2cc44d5dd52f583c80d0a10102d2f75a"
+    }, {
+      "name" : "1 expectation failed.\nExpected status code <400> but was <500>.\n",
+      "children" : [ {
+        "name" : "T_3DeveValidarCampoCustomerIdObrigatorio",
+        "uid" : "9bc80de40821208f",
+        "parentUid" : "b39edf83ec05e14ad9c1adb6193fdc09",
+        "status" : "failed",
+        "time" : {
+          "start" : 1628014547036,
+          "stop" : 1628014599277,
+          "duration" : 52241
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b39edf83ec05e14ad9c1adb6193fdc09"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  }, {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for visibility of element located by By.xpath: //body/div[@id='root']/div[1]/div[2]/div[1]/div[4] (tried for 55 second(s) with 500 MILLISECONDS interval)",
+      "children" : [ {
+        "name" : "t12_verificarHistorico",
+        "uid" : "3196d05e6171eb3d",
+        "parentUid" : "b211af7210f28cf11875e7815111abbc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628014219535,
+          "stop" : 1628014295961,
+          "duration" : 76426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "t12_verificarHistorico",
+        "uid" : "7490605b2e4a0bb8",
+        "parentUid" : "b211af7210f28cf11875e7815111abbc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1628015583348,
+          "stop" : 1628015660238,
+          "duration" : 76890
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b211af7210f28cf11875e7815111abbc"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "520ab7c9fd8f76bc",
+  "name" : "T_6deveValidarOsCamposDoProcessos",
+  "fullName" : "br.trinca.mattos.tests.Api.ProcessosAPITeste.T_6deveValidarOsCamposDoProcessos",
+  "historyId" : "b224e7d06a9d6e4dbd2e86ac12a287cd",
+  "time" : {
+    "start" : 1628014603157,
+    "stop" : 1628014603621,
+    "duration" : 464
+  },
+  "description" : "T_6deveValidarOsCamposDoProcessos",
+  "descriptionHtml" : "<p>T_6deveValidarOsCamposDoProcessos</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "T_6deveValidarOsCamposDoProcessos"
+  }, {
+    "name" : "host",
+    "value" : "TRINCA-NOTE-22"
+  }, {
+    "name" : "thread",
+    "value" : "21536@TRINCA-NOTE-22.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "br.trinca.mattos.tests.Api.ProcessosAPITeste"
+  }, {
+    "name" : "testClass",
+    "value" : "br.trinca.mattos.tests.Api.ProcessosAPITeste"
+  }, {
+    "name" : "testMethod",
+    "value" : "T_6deveValidarOsCamposDoProcessos"
+  }, {
+    "name" : "suite",
+    "value" : "br.trinca.mattos.tests.Api.ProcessosAPITeste"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "520ab7c9fd8f76bc.json",
+  "parameterValues" : [ ]
+}

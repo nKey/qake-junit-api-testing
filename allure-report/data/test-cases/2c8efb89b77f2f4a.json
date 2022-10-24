@@ -1,0 +1,70 @@
+{
+  "uid" : "2c8efb89b77f2f4a",
+  "name" : "t01_deveRealizarLogin",
+  "fullName" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste.t01_deveRealizarLogin",
+  "historyId" : "a70aec31ee56e3c8eaed10234ee293a8",
+  "time" : {
+    "start" : 1628015355147,
+    "stop" : 1628015370944,
+    "duration" : 15797
+  },
+  "description" : "mattos1",
+  "descriptionHtml" : "<p>mattos1</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "### FEATURE PROCESSO MATTOS"
+  }, {
+    "name" : "epic",
+    "value" : "###EPIC DEVE ADD PROCESSOS COM SUCESSO##"
+  }, {
+    "name" : "story",
+    "value" : "mattos2"
+  }, {
+    "name" : "host",
+    "value" : "TRINCA-NOTE-22"
+  }, {
+    "name" : "thread",
+    "value" : "22532@TRINCA-NOTE-22.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste"
+  }, {
+    "name" : "testClass",
+    "value" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste"
+  }, {
+    "name" : "testMethod",
+    "value" : "t01_deveRealizarLogin"
+  }, {
+    "name" : "suite",
+    "value" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c8efb89b77f2f4a.json",
+  "parameterValues" : [ ]
+}

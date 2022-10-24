@@ -1,0 +1,48 @@
+{
+  "total" : 4,
+  "items" : [ {
+    "uid" : "2d53cf793573cc60cec7961bcd769bc6",
+    "name" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste",
+    "statistic" : {
+      "failed" : 2,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 22,
+      "unknown" : 0,
+      "total" : 26
+    }
+  }, {
+    "uid" : "ac3618ef9b8752ce0a7e726e36818fe9",
+    "name" : "br.trinca.mattos.tests.Api.ProcessosAPITeste",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "397d3a3af8fa96bee704ea17b2013958",
+    "name" : "br.trinca.mattos.tests.metoDoc.DocumentosTeste",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 7
+    }
+  }, {
+    "uid" : "215ee0f7e55a0befa3e8024dafb1af81",
+    "name" : "br.trinca.mattos.tests.metoDoc.EmpresaTeste",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  } ]
+}

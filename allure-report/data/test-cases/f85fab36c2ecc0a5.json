@@ -1,0 +1,64 @@
+{
+  "uid" : "f85fab36c2ecc0a5",
+  "name" : "T_2DeveValidarCampoNameObrigatorio",
+  "fullName" : "br.trinca.mattos.tests.Api.ProcessosAPITeste.T_2DeveValidarCampoNameObrigatorio",
+  "historyId" : "39e0c400e05fa6ba4949300d008098ca",
+  "time" : {
+    "start" : 1628014545419,
+    "stop" : 1628014547021,
+    "duration" : 1602
+  },
+  "description" : "T_2DeveValidarCampoNameObrigatorio",
+  "descriptionHtml" : "<p>T_2DeveValidarCampoNameObrigatorio</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "T_2DeveValidarCampoNameObrigatorio"
+  }, {
+    "name" : "host",
+    "value" : "TRINCA-NOTE-22"
+  }, {
+    "name" : "thread",
+    "value" : "21536@TRINCA-NOTE-22.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "br.trinca.mattos.tests.Api.ProcessosAPITeste"
+  }, {
+    "name" : "testClass",
+    "value" : "br.trinca.mattos.tests.Api.ProcessosAPITeste"
+  }, {
+    "name" : "testMethod",
+    "value" : "T_2DeveValidarCampoNameObrigatorio"
+  }, {
+    "name" : "suite",
+    "value" : "br.trinca.mattos.tests.Api.ProcessosAPITeste"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f85fab36c2ecc0a5.json",
+  "parameterValues" : [ ]
+}

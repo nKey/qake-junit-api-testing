@@ -1,0 +1,114 @@
+{
+  "total" : 10,
+  "items" : [ {
+    "uid" : "619d19253f79b3ebdc62e37ec155e152",
+    "name" : "###EPIC DEVE ADD PROCESSOS COM SUCESSO##",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "71b07a8e5e077160a7302e3cb2797236",
+    "name" : "T_3DeveValidarCampoCustomerIdObrigatorio",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "7fc316d0060eb61525d6cf248ca4be40",
+    "name" : "deveCriarEmpresa",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "a271589f8656cfcfc07032305ea73617",
+    "name" : "###EPIC DEVE ADD DOCUMENTOS COM SUCESSO##",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "1a1d7d7fce38abbcf203057901016a3d",
+    "name" : "T_1deveIncuirProcessiComSucesso",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "3c6ca8c8aeecd60a1d97fef3fef7e2e0",
+    "name" : "T_2DeveValidarCampoNameObrigatorio",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "02252ecd45511c0b62cf1af9bbbd33e2",
+    "name" : "T_4DeveValidarCampoStatusObrigatorio",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "3d36681f963f1c6b3b620011172d94c7",
+    "name" : "T_5DeveValidarCampoUserObrigatorio",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "036dbde74b7f5c5c8c7ca3a761c55f2a",
+    "name" : "T_6deveValidarOsCamposDoProcessos",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "7784f80c70390128af4baa3eb9c38fd8",
+    "name" : "T_7devoRemoverUsuario",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

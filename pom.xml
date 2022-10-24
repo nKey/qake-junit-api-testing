@@ -1,0 +1,86 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>br.N.Key</groupId>
+  <artifactId>Nkey</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <build>
+  	<testSourceDirectory>src</testSourceDirectory>
+  	<plugins>
+  		<plugin>
+  			<groupId>org.apache.maven.plugins</groupId>
+  			<artifactId>maven-surefire-plugin</artifactId>
+  			<version>2.18.1</version>
+  			<configuration>
+  				<includes>
+  					<include>br/nkey/mattos/suites/*.java</include>
+  				</includes>
+  				<parallel>all</parallel>
+  				<threadCount>3</threadCount>
+  			</configuration>
+  		</plugin>
+
+  	</plugins>
+  </build>
+  
+  <dependencies>
+  	<dependency>
+  		<groupId>org.seleniumhq.selenium</groupId>
+  		<artifactId>selenium-java</artifactId>
+  		<version>3.4.0</version>
+  	</dependency>
+	  <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
+	  <dependency>
+		  <groupId>org.junit.jupiter</groupId>
+		  <artifactId>junit-jupiter-api</artifactId>
+		  <version>5.8.0-M1</version>
+		  <scope>test</scope>
+	  </dependency>
+	  <dependency>
+		  <groupId>io.qameta.allure</groupId>
+		  <artifactId>allure-junit5</artifactId>
+		  <version>2.14.0</version>
+		  <scope>test</scope>
+	  </dependency>
+	  <dependency>
+		  <groupId>io.rest-assured</groupId>
+		  <artifactId>rest-assured</artifactId>
+		  <version>4.3.3</version>
+	  </dependency>
+	  <dependency>
+		  <groupId>com.google.code.gson</groupId>
+		  <artifactId>gson</artifactId>
+		  <version>2.8.7</version>
+	  </dependency>
+
+	  <dependency>
+		  <groupId>io.rest-assured</groupId>
+		  <artifactId>json-schema-validator</artifactId>
+		  <version>4.4.0</version>
+	  </dependency>
+	  <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->
+
+	  <dependency>
+		  <groupId>io.cucumber</groupId>
+		  <artifactId>cucumber-junit</artifactId>
+		  <version>6.10.4</version>
+		  <scope>compile</scope>
+	  </dependency>
+	  <dependency>
+		  <groupId>io.qameta.allure</groupId>
+		  <artifactId>allure-java-commons</artifactId>
+		  <version>2.14.0</version>
+		  <scope>compile</scope>
+	  </dependency>
+	  <!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-clean-plugin -->
+	  <dependency>
+		  <groupId>org.apache.maven.plugins</groupId>
+		  <artifactId>maven-clean-plugin</artifactId>
+		  <version>3.1.0</version>
+	  </dependency>
+
+
+
+
+  </dependencies>
+</project>

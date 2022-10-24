@@ -1,0 +1,70 @@
+{
+  "uid" : "f7cb63351c155532",
+  "name" : "t09_deveInserirDocumentoPorDentroDoProcesso",
+  "fullName" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste.t09_deveInserirDocumentoPorDentroDoProcesso",
+  "historyId" : "ce3e450e9c56bee68008a52a1c977bb8",
+  "time" : {
+    "start" : 1628014171627,
+    "stop" : 1628014189979,
+    "duration" : 18352
+  },
+  "description" : "t09_deveInserirDocumentoPorDentroDoProcesso",
+  "descriptionHtml" : "<p>t09_deveInserirDocumentoPorDentroDoProcesso</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "epic",
+    "value" : "###EPIC DEVE ADD PROCESSOS COM SUCESSO##"
+  }, {
+    "name" : "feature",
+    "value" : "### FEATURE PROCESSO MATTOS"
+  }, {
+    "name" : "story",
+    "value" : "t09_deveInserirDocumentoPorDentroDoProcesso"
+  }, {
+    "name" : "host",
+    "value" : "TRINCA-NOTE-22"
+  }, {
+    "name" : "thread",
+    "value" : "21536@TRINCA-NOTE-22.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste"
+  }, {
+    "name" : "testClass",
+    "value" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste"
+  }, {
+    "name" : "testMethod",
+    "value" : "t09_deveInserirDocumentoPorDentroDoProcesso"
+  }, {
+    "name" : "suite",
+    "value" : "br.trinca.mattos.tests.metoDoc.ProcessosTeste"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7cb63351c155532.json",
+  "parameterValues" : [ ]
+}

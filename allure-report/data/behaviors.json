@@ -1,0 +1,679 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "deveCriarEmpresa",
+    "children" : [ {
+      "name" : "deveCriarEmpresa",
+      "uid" : "8c1c397e570447be",
+      "parentUid" : "7fc316d0060eb61525d6cf248ca4be40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628013771084,
+        "stop" : 1628013797788,
+        "duration" : 26704
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "deveCriarEmpresa",
+      "uid" : "4b1b2750e6eb2d07",
+      "parentUid" : "7fc316d0060eb61525d6cf248ca4be40",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628014518171,
+        "stop" : 1628014541517,
+        "duration" : 23346
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7fc316d0060eb61525d6cf248ca4be40"
+  }, {
+    "name" : "###EPIC DEVE ADD PROCESSOS COM SUCESSO##",
+    "children" : [ {
+      "name" : "### FEATURE PROCESSO MATTOS",
+      "children" : [ {
+        "name" : "mattos2",
+        "children" : [ {
+          "name" : "t01_deveRealizarLogin",
+          "uid" : "257628789cc12dd",
+          "parentUid" : "c24f1609534b19c1e8f65d1cc71d563d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628013990745,
+            "stop" : 1628014005721,
+            "duration" : 14976
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t01_deveRealizarLogin",
+          "uid" : "2c8efb89b77f2f4a",
+          "parentUid" : "c24f1609534b19c1e8f65d1cc71d563d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628015355147,
+            "stop" : 1628015370944,
+            "duration" : 15797
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c24f1609534b19c1e8f65d1cc71d563d"
+      }, {
+        "name" : "t02_deveAdicionarProcessoNovo",
+        "children" : [ {
+          "name" : "t02_deveAdicionarProcessoNovo",
+          "uid" : "5a7086b82ff74675",
+          "parentUid" : "783428fcd00c2529457272eeeec16cce",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014005783,
+            "stop" : 1628014031880,
+            "duration" : 26097
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t02_deveAdicionarProcessoNovo",
+          "uid" : "eeece6ce787b67c3",
+          "parentUid" : "783428fcd00c2529457272eeeec16cce",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628015371044,
+            "stop" : 1628015396234,
+            "duration" : 25190
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "783428fcd00c2529457272eeeec16cce"
+      }, {
+        "name" : "t03_deveEditarProcesso",
+        "children" : [ {
+          "name" : "t03_deveEditarProcesso",
+          "uid" : "132431738dbd1567",
+          "parentUid" : "8bdd302017c5d266b5212a4722afb027",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014031880,
+            "stop" : 1628014059333,
+            "duration" : 27453
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t03_deveEditarProcesso",
+          "uid" : "d0a214a522119e5d",
+          "parentUid" : "8bdd302017c5d266b5212a4722afb027",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628015396236,
+            "stop" : 1628015423153,
+            "duration" : 26917
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "8bdd302017c5d266b5212a4722afb027"
+      }, {
+        "name" : "t04_deveEditarPorDentroProcesso",
+        "children" : [ {
+          "name" : "t04_deveEditarPorDentroProcesso",
+          "uid" : "cc59fd47cafeb070",
+          "parentUid" : "48992939536d09324bf15387d86887db",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014059341,
+            "stop" : 1628014082599,
+            "duration" : 23258
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t04_deveEditarPorDentroProcesso",
+          "uid" : "f74aa3c8c54df789",
+          "parentUid" : "48992939536d09324bf15387d86887db",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628015423155,
+            "stop" : 1628015446887,
+            "duration" : 23732
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "48992939536d09324bf15387d86887db"
+      }, {
+        "name" : "t05_deveBuscarProcessos",
+        "children" : [ {
+          "name" : "t05_deveBuscarProcessos",
+          "uid" : "69aacf3b5c62e01a",
+          "parentUid" : "f0c47f68762c7de672a0a6242cd72a48",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014082605,
+            "stop" : 1628014100340,
+            "duration" : 17735
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t05_deveBuscarProcessos",
+          "uid" : "74dd3b6aa39794d1",
+          "parentUid" : "f0c47f68762c7de672a0a6242cd72a48",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628015446889,
+            "stop" : 1628015462448,
+            "duration" : 15559
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "f0c47f68762c7de672a0a6242cd72a48"
+      }, {
+        "name" : "t06_deveFazerDownloandDoProcessos",
+        "children" : [ {
+          "name" : "t06_deveFazerDownloandDoProcessos",
+          "uid" : "a449f546f505298f",
+          "parentUid" : "bc3e71f9db2fb5d6659985af62512296",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014100340,
+            "stop" : 1628014118163,
+            "duration" : 17823
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t06_deveFazerDownloandDoProcessos",
+          "uid" : "fa6c190fe5d04091",
+          "parentUid" : "bc3e71f9db2fb5d6659985af62512296",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628015462448,
+            "stop" : 1628015479943,
+            "duration" : 17495
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "bc3e71f9db2fb5d6659985af62512296"
+      }, {
+        "name" : "t07_deveAdicionarLocalDeArmazenamento",
+        "children" : [ {
+          "name" : "t07_deveAdicionarLocalDeArmazenamento",
+          "uid" : "c017a6484690ffdf",
+          "parentUid" : "c04290fb08cbd2d6cc5453e18f8f9e3a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014118163,
+            "stop" : 1628014150854,
+            "duration" : 32691
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t07_deveAdicionarLocalDeArmazenamento",
+          "uid" : "dfa7415e47d5b389",
+          "parentUid" : "c04290fb08cbd2d6cc5453e18f8f9e3a",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628015479945,
+            "stop" : 1628015513619,
+            "duration" : 33674
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c04290fb08cbd2d6cc5453e18f8f9e3a"
+      }, {
+        "name" : "t08_deveAdicionarMembrosNoProcesso",
+        "children" : [ {
+          "name" : "t08_deveAdicionarMembrosNoProcesso",
+          "uid" : "63ce70c83cd74b29",
+          "parentUid" : "24a12d5b686cecd4dbcb1973f75b2762",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014150859,
+            "stop" : 1628014171627,
+            "duration" : 20768
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t08_deveAdicionarMembrosNoProcesso",
+          "uid" : "1bf1bf885ec7f04c",
+          "parentUid" : "24a12d5b686cecd4dbcb1973f75b2762",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628015513626,
+            "stop" : 1628015534633,
+            "duration" : 21007
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "24a12d5b686cecd4dbcb1973f75b2762"
+      }, {
+        "name" : "t09_deveInserirDocumentoPorDentroDoProcesso",
+        "children" : [ {
+          "name" : "t09_deveInserirDocumentoPorDentroDoProcesso",
+          "uid" : "f7cb63351c155532",
+          "parentUid" : "b967bb0b9a76dc3dee9ffdb51d508f12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014171627,
+            "stop" : 1628014189979,
+            "duration" : 18352
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t09_deveInserirDocumentoPorDentroDoProcesso",
+          "uid" : "b07c983c4a7eebaf",
+          "parentUid" : "b967bb0b9a76dc3dee9ffdb51d508f12",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628015534633,
+            "stop" : 1628015553614,
+            "duration" : 18981
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b967bb0b9a76dc3dee9ffdb51d508f12"
+      }, {
+        "name" : "t11_deveEditarDocumentoPorDentroProcesso",
+        "children" : [ {
+          "name" : "t11_deveEditarDocumentoPorDentroProcesso",
+          "uid" : "e2b206fa90a82a68",
+          "parentUid" : "97ae5ee10b4708bc6a3a5b6b8e66095d",
+          "status" : "failed",
+          "time" : {
+            "start" : 1628014189979,
+            "stop" : 1628014219519,
+            "duration" : 29540
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t11_deveEditarDocumentoPorDentroProcesso",
+          "uid" : "995d573c61165562",
+          "parentUid" : "97ae5ee10b4708bc6a3a5b6b8e66095d",
+          "status" : "failed",
+          "time" : {
+            "start" : 1628015553614,
+            "stop" : 1628015583338,
+            "duration" : 29724
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "97ae5ee10b4708bc6a3a5b6b8e66095d"
+      }, {
+        "name" : "t12_verificarHistorico",
+        "children" : [ {
+          "name" : "t12_verificarHistorico",
+          "uid" : "3196d05e6171eb3d",
+          "parentUid" : "5f03148e776d54a5528194c20c78292a",
+          "status" : "broken",
+          "time" : {
+            "start" : 1628014219535,
+            "stop" : 1628014295961,
+            "duration" : 76426
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t12_verificarHistorico",
+          "uid" : "7490605b2e4a0bb8",
+          "parentUid" : "5f03148e776d54a5528194c20c78292a",
+          "status" : "broken",
+          "time" : {
+            "start" : 1628015583348,
+            "stop" : 1628015660238,
+            "duration" : 76890
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "5f03148e776d54a5528194c20c78292a"
+      }, {
+        "name" : "t13_deveExcluirDocPorDentroDoProcessos",
+        "children" : [ {
+          "name" : "t13_deveExcluirDocPorDentroDoProcessos",
+          "uid" : "728452151b61488b",
+          "parentUid" : "797556bfe9b4c04e83f19e5df783cb92",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014295961,
+            "stop" : 1628014316421,
+            "duration" : 20460
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t13_deveExcluirDocPorDentroDoProcessos",
+          "uid" : "4512485004304401",
+          "parentUid" : "797556bfe9b4c04e83f19e5df783cb92",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628015660243,
+            "stop" : 1628015681197,
+            "duration" : 20954
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "797556bfe9b4c04e83f19e5df783cb92"
+      }, {
+        "name" : "t14_deveExcluirProcessos",
+        "children" : [ {
+          "name" : "t14_deveExcluirProcessos",
+          "uid" : "586b6e4961dcf107",
+          "parentUid" : "cde4ebe079cf95e5c0ca0a1144aaefce",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014316421,
+            "stop" : 1628014332070,
+            "duration" : 15649
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "t14_deveExcluirProcessos",
+          "uid" : "f8345279286a2a36",
+          "parentUid" : "cde4ebe079cf95e5c0ca0a1144aaefce",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628015681205,
+            "stop" : 1628015698362,
+            "duration" : 17157
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "cde4ebe079cf95e5c0ca0a1144aaefce"
+      } ],
+      "uid" : "8c37e9317ca170e06bdbd3a97365d334"
+    } ],
+    "uid" : "619d19253f79b3ebdc62e37ec155e152"
+  }, {
+    "name" : "###EPIC DEVE ADD DOCUMENTOS COM SUCESSO##",
+    "children" : [ {
+      "name" : "### FEATURE MATTOS",
+      "children" : [ {
+        "name" : "t01_deveAdicionarDocumentos",
+        "children" : [ {
+          "name" : "t01_deveAdicionarDocumentos",
+          "uid" : "2aca4cda20cd526b",
+          "parentUid" : "a1706789204a4951fb7521558342e5b4",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014332070,
+            "stop" : 1628014362441,
+            "duration" : 30371
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "a1706789204a4951fb7521558342e5b4"
+      }, {
+        "name" : "t02_deveEditarDocumentos",
+        "children" : [ {
+          "name" : "t02_deveEditarDocumentos",
+          "uid" : "609dc3bdfa06a0fa",
+          "parentUid" : "e4a0869e0fd5ba6d94b71a00f33b6040",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014362441,
+            "stop" : 1628014390456,
+            "duration" : 28015
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "e4a0869e0fd5ba6d94b71a00f33b6040"
+      }, {
+        "name" : "t03_deveBuscarDocumentos",
+        "children" : [ {
+          "name" : "t03_deveBuscarDocumentos",
+          "uid" : "83541072fc08bc56",
+          "parentUid" : "b06e3a3f6e789bb24dab8770e308083e",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014390456,
+            "stop" : 1628014411055,
+            "duration" : 20599
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b06e3a3f6e789bb24dab8770e308083e"
+      }, {
+        "name" : "t04_deveVisualizarDocumentosVerificarSeFoiaAbertoNapágina",
+        "children" : [ {
+          "name" : "t04_deveVisualizarDocumentosVerificarSeFoiaAbertoNapágina",
+          "uid" : "74cc5014976ee662",
+          "parentUid" : "c6c7bcbc7879f64bd06679f0f1e56733",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014411055,
+            "stop" : 1628014435868,
+            "duration" : 24813
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "c6c7bcbc7879f64bd06679f0f1e56733"
+      }, {
+        "name" : "t05_deveInserirArmazenamentoFisico",
+        "children" : [ {
+          "name" : "t05_deveInserirArmazenamentoFisico",
+          "uid" : "b236ddb860caa97c",
+          "parentUid" : "b3965cbf1f60d512ed0d0576a9a284fe",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014435868,
+            "stop" : 1628014467333,
+            "duration" : 31465
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b3965cbf1f60d512ed0d0576a9a284fe"
+      }, {
+        "name" : "t06_deveFazerDownloadDocumentos",
+        "children" : [ {
+          "name" : "t06_deveFazerDownloadDocumentos",
+          "uid" : "b3e257c329d52d38",
+          "parentUid" : "1caa2a870bcd4570840d7dddd753d619",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014467333,
+            "stop" : 1628014492116,
+            "duration" : 24783
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "1caa2a870bcd4570840d7dddd753d619"
+      }, {
+        "name" : "t07_deveExcluirDocumentos",
+        "children" : [ {
+          "name" : "t07_deveExcluirDocumentos",
+          "uid" : "f402199a2cd48f3f",
+          "parentUid" : "aa925f5142536e04c507a0d9375f210d",
+          "status" : "passed",
+          "time" : {
+            "start" : 1628014492116,
+            "stop" : 1628014518171,
+            "duration" : 26055
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "aa925f5142536e04c507a0d9375f210d"
+      } ],
+      "uid" : "767ab44b2a3a80330d89c3cb38985b3e"
+    } ],
+    "uid" : "a271589f8656cfcfc07032305ea73617"
+  }, {
+    "name" : "T_1deveIncuirProcessiComSucesso",
+    "children" : [ {
+      "name" : "T_1deveIncuirProcessiComSucesso",
+      "uid" : "8a2ce66f23aa0995",
+      "parentUid" : "1a1d7d7fce38abbcf203057901016a3d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628014545047,
+        "stop" : 1628014545411,
+        "duration" : 364
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "1a1d7d7fce38abbcf203057901016a3d"
+  }, {
+    "name" : "T_2DeveValidarCampoNameObrigatorio",
+    "children" : [ {
+      "name" : "T_2DeveValidarCampoNameObrigatorio",
+      "uid" : "f85fab36c2ecc0a5",
+      "parentUid" : "3c6ca8c8aeecd60a1d97fef3fef7e2e0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628014545419,
+        "stop" : 1628014547021,
+        "duration" : 1602
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3c6ca8c8aeecd60a1d97fef3fef7e2e0"
+  }, {
+    "name" : "T_3DeveValidarCampoCustomerIdObrigatorio",
+    "children" : [ {
+      "name" : "T_3DeveValidarCampoCustomerIdObrigatorio",
+      "uid" : "9bc80de40821208f",
+      "parentUid" : "71b07a8e5e077160a7302e3cb2797236",
+      "status" : "failed",
+      "time" : {
+        "start" : 1628014547036,
+        "stop" : 1628014599277,
+        "duration" : 52241
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "71b07a8e5e077160a7302e3cb2797236"
+  }, {
+    "name" : "T_4DeveValidarCampoStatusObrigatorio",
+    "children" : [ {
+      "name" : "T_4DeveValidarCampoStatusObrigatorio",
+      "uid" : "df62d8715c1b86aa",
+      "parentUid" : "02252ecd45511c0b62cf1af9bbbd33e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628014599279,
+        "stop" : 1628014602874,
+        "duration" : 3595
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "02252ecd45511c0b62cf1af9bbbd33e2"
+  }, {
+    "name" : "T_5DeveValidarCampoUserObrigatorio",
+    "children" : [ {
+      "name" : "T_5DeveValidarCampoUserObrigatorio",
+      "uid" : "3bdbf8c2272de89a",
+      "parentUid" : "3d36681f963f1c6b3b620011172d94c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628014602885,
+        "stop" : 1628014603157,
+        "duration" : 272
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3d36681f963f1c6b3b620011172d94c7"
+  }, {
+    "name" : "T_6deveValidarOsCamposDoProcessos",
+    "children" : [ {
+      "name" : "T_6deveValidarOsCamposDoProcessos",
+      "uid" : "520ab7c9fd8f76bc",
+      "parentUid" : "036dbde74b7f5c5c8c7ca3a761c55f2a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628014603157,
+        "stop" : 1628014603621,
+        "duration" : 464
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "036dbde74b7f5c5c8c7ca3a761c55f2a"
+  }, {
+    "name" : "T_7devoRemoverUsuario",
+    "children" : [ {
+      "name" : "T_7devoRemoverUsuario",
+      "uid" : "7360f529fbf153ad",
+      "parentUid" : "7784f80c70390128af4baa3eb9c38fd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1628014603631,
+        "stop" : 1628014603963,
+        "duration" : 332
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7784f80c70390128af4baa3eb9c38fd8"
+  } ]
+}
